@@ -1,12 +1,12 @@
 ## Hi there and welcome to my GitHub Account 👋
 
-My name is Tobias. I am an economist and self-taught data scientist working in R and Python :snake:
+My name is Tobias. I am an economist and self-taught data scientist working in R and Python. :snake:
 
 ## About me:
 
 - :coffee:  I love drinking a good cup of coffee
 - :book:  Always looking for fun projects to learn a thing or two
-- :pencil:  Writing about recent projects on my [Blog](tlary.github.io)
+- :pencil:  Writing about recent projects on my [Blog](https://tlary.github.io)
 - :computer:  Currently looking for new and exciting opportunities 
 
 You can also find me on LinkedIn [![LinkedIn][1]][2], so let's get connected and do not hesitate to contact me! :mailbox: 
