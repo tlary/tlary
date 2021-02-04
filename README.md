@@ -4,7 +4,7 @@ My name is Tobias. I am an economist and a self-taught data scientist working in
 
 ## About me:
 
-- :coffee:  I love drinking a good cup of coffee
+- :coffee:  Love drinking a good cup of coffee
 - :book:  Always looking for fun projects to learn a thing or two
 - :pencil:  Writing about recent projects on my [Blog](https://tlary.github.io)
 - :computer:  Currently looking for new and exciting opportunities 
