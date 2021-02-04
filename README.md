@@ -1,15 +1,29 @@
-#### Hi there and welcome to my GitHub Account 👋
+## Hi there and welcome to my GitHub Account 👋
 
 My name is Tobias. I am an economist and self-taught data scientist working in R and Python :snake:
 
-Fun Facts: 
+## About me:
+
 - :coffee:  I love drinking a good cup of coffee
 - :book:  Always looking for fun projects to learn a thing or two
 - :pencil:  Writing about recent projects on my [Blog](tlary.github.io)
 - :computer:  Currently looking for new and exciting opportunities 
 
-Let's get connnected: 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+You can also find me on LinkedIn [![LinkedIn][1]][2], so let's get connected and do not hesitate to contact me! :mailbox: 
+
+[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2]: https://www.linkedin.com/in/tobias-larysch-97981519b/
+
+## :computer: Tools and Tech Stack:
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Office-MS%20Office-informational?style=flat&logo=Microsoft%20Office&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Writing-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 
 
 <!--
