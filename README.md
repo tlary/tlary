@@ -17,7 +17,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tobias-larysch-97
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=2bbc8a)
