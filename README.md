@@ -1,6 +1,6 @@
 ## Hi there and welcome to my GitHub Account 👋
 
-My name is Tobias. I am an economist and self-taught data scientist working in R and Python. :snake:
+My name is Tobias. I am an economist and a self-taught data scientist working in R and Python. :snake:
 
 ## About me:
 
