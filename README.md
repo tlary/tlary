@@ -9,10 +9,7 @@ My name is Tobias. I am an economist and self-taught data scientist working in R
 - :pencil:  Writing about recent projects on my [Blog](https://tlary.github.io)
 - :computer:  Currently looking for new and exciting opportunities 
 
-You can also find me on LinkedIn [![LinkedIn][1]][2], so let's get connected and do not hesitate to contact me! :mailbox: 
-
-[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2]: https://www.linkedin.com/in/tobias-larysch-97981519b/
+You can also find me on [LinkedIn](https://www.linkedin.com/in/tobias-larysch-97981519b/), so let's get connected and do not hesitate to contact me! :mailbox: 
 
 ## :computer: Tools and Tech Stack:
 
