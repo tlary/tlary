@@ -19,7 +19,9 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tobias-larysch-97
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub%20Actions-informational?style=flat&logo=GitHub%20Actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Office-MS%20Office-informational?style=flat&logo=Microsoft%20Office&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Writing-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
@@ -27,15 +29,5 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/tobias-larysch-97
 
 <!--
 **tlary/tlary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Logos from Simple Icons -> https://simpleicons.org/
 -->
