@@ -1,6 +1,6 @@
 ## Hi there and welcome to my GitHub Account 👋
 
-My name is Tobias. I am an economist and a data scientist working in R and Python. :snake:
+My name is Tobias. I am an economist and a data scientist currently working at AUTO1 building the best way to buy and sell used cars across Europe 🚀
 
 ## About me:
 
